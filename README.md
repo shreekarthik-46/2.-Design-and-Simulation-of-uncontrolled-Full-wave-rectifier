@@ -55,5 +55,10 @@ Write your analysis report as Inference (Current waveform, RMS value)
 <img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/ef548704-4f5e-47e8-b847-4badd9cfeb07" />
 
 ## Simulation
+<img width="1020" height="447" alt="image" src="https://github.com/user-attachments/assets/6e59cc48-d111-43ee-8830-c6e72b3afe4a" />
+
 ## Output
+<img width="1036" height="546" alt="image" src="https://github.com/user-attachments/assets/049aa83f-73c6-4aa1-8113-b50e7dbc68bd" />
+
 ## Result
+The uncontrolled full-wave rectifier was successfully simulated in MATLAB Simulink, producing a pulsating DC output for both positive and negative half cycles of the AC input.
